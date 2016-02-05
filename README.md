@@ -4,7 +4,7 @@
   Nederlandsch-chineesch woordenboek met de transcriptie der chineesche karakters in het Tsiang-tsiu dialekt. Hoofdzakelijk ten behoeve der tolken voor de chineesche taal in Nederlandsch-Indië,
 * 作者
   * Schlegel, Gustaaf, 1840-1903
-* Note
+* 出版者
   * Leiden, E.J. Brill, 1886-90
 * 其他資訊 
   * http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha002239888
